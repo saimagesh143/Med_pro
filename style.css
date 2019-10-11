@@ -44,7 +44,7 @@ html{
   text-transform: uppercase;
 }
 .slider-area{
-    background-image: url(im/imagesa.jpg);
+    background-image: url(imagesa.jpg);
     -webkit-background-size:cover;
     background-size: cover;
     background-position: center center;
@@ -99,7 +99,7 @@ html{
   margin-bottom: 30px;
 }
 .stats-area{
-  background-image: url(im/tree.jpg);
+  background-image: url(tree.jpg);
   background-attachment: fixed;
   -webkit-background-size:cover;
   background-size: cover;
@@ -160,7 +160,7 @@ html{
 }
 
 .class-a{
-  background-image: url(im/tree.jpg);
+  background-image: url(tree.jpg);
   background-attachment: fixed;
   -webkit-background-size:cover;
   background-size: cover;
@@ -207,7 +207,7 @@ html{
   padding-bottom: 30px;
 }
 .boy-area{
-  background-image: url(im/giphy.gif);
+  background-image: url(giphy.gif);
   -webkit-background-size:cover;
   background-size: cover;
 
